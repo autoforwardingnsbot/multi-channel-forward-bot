@@ -9,7 +9,7 @@
         "robot"
     ],
     "website": "https://github.com/m4mallu/multi-channel-forward-bot",
-    "repository": "https://github.com/m4mallu/multi-channel-forward-bot",
+    "repository": "https://github.com/autoforwardingnsbot/multi-channel-forward-bot",
     "env": {
         "TG_BOT_TOKEN": {"description": "Your Bot Token", "required": true},
         "APP_ID": {"description": "Your APP ID", "required": true},
